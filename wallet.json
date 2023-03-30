@@ -1,0 +1,58 @@
+{ "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96": {
+        "id": "c57ca95b47569778a828d19178114f4db188b89b763c899ba0be274e97267d96",
+        "name": "MetaMask",
+        "description": "Whether you are an experienced user or brand new to blockchain, MetaMask helps you connect to the decentralized web: a new internet.",
+        "homepage": "https://metamask.io/",
+        "chains": [
+            "eip155:1"
+        ],
+        "versions": [
+            "1"
+        ],
+        "sdks": [
+            "sign_v1"
+        ],
+        "app_type": "wallet",
+        "image_id": "5195e9db-94d8-4579-6f11-ef553be95100",
+        "image_url": {
+            "sm": "https://registry.walletconnect.org/v2/logo/sm/5195e9db-94d8-4579-6f11-ef553be95100",
+            "md": "https://registry.walletconnect.org/v2/logo/md/5195e9db-94d8-4579-6f11-ef553be95100",
+            "lg": "https://registry.walletconnect.org/v2/logo/lg/5195e9db-94d8-4579-6f11-ef553be95100"
+        },
+        "app": {
+            "browser": null,
+            "ios": "https://apps.apple.com/us/app/metamask/id1438144202",
+            "android": "https://play.google.com/store/apps/details?id=io.metamask",
+            "mac": null,
+            "windows": null,
+            "linux": null,
+            "chrome": "https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn",
+            "firefox": "https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/",
+            "safari": null,
+            "edge": "https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US",
+            "opera": "https://addons.opera.com/en-gb/extensions/details/metamask-10/"
+        },
+        "injected": [
+            {
+                "namespace": "eip155",
+                "injected_id": "isMetaMask"
+            }
+        ],
+        "mobile": {
+            "native": "metamask:",
+            "universal": "https://metamask.app.link"
+        },
+        "desktop": {
+            "native": null,
+            "universal": null
+        },
+        "supported_standards": [],
+        "metadata": {
+            "shortName": "MetaMask",
+            "colors": {
+                "primary": "#ffffff",
+                "secondary": null
+            }
+        },
+        "updatedAt": "2021-07-30T17:48:12.565532+00:00"
+    }}
